@@ -9,3 +9,7 @@
 P.S. There will be a lot of warnings on the screen when compiling it, as long as there are no errors, it should be fine.
 
 # And now SNAP should work :)
+
+
+## Thanks to
+Oskar and Yaseen for helping me with this.
